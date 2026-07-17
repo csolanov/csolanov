@@ -1,7 +1,15 @@
 <div align="center">
 
-<!-- Texto Animado de Bienvenida -->
-<img src="https://demolab.com" alt="Typing SVG" />
+<!-- Banner Cápsula Azul Marino (Reemplazo de la Animación para evitar bloqueos) -->
+<img src="https://vercel.app" alt="Header Banner" width="100%" />
+
+<br><br>
+
+<p align="center">
+  <a href="mailto:csolanov@gmail.com">
+    <img src="https://shields.io" alt="Gmail">
+  </a>
+</p>
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Banner Cápsula Azul Marino (Reemplazo de la Animación para evitar bloqueos) -->
-<img src="https://vercel.app" alt="Header Banner" width="100%" />
+<!-- Banner Oficial de GitHub - Totalmente Compatible -->
+<img src="https://shields.io" alt="Header Banner" width="100%" height="50px" />
 
 <br><br>
 

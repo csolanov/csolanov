@@ -3,12 +3,6 @@
 <!-- Texto Animado de Bienvenida -->
 <img src="https://demolab.com" alt="Typing SVG" />
 
-<p align="center">
-  <a href="mailto:csolanov@gmail.com">
-    <img src="https://shields.io" alt="Gmail">
-  </a>
-</p>
-
 ---
 
 </div>

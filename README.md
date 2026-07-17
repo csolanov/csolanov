@@ -1,11 +1,4 @@
 # 💻 Carlos Solano | Analista Programador & Data Scientist
-
-<p align="left">
-  <a href="mailto:csolanov@gmail.com">
-    <img src="https://shields.io" alt="Gmail">
-  </a>
-</p>
-
 ---
 
 ## 👤 Sobre Mí
